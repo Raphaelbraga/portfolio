@@ -11,8 +11,9 @@ header{
 }
 
 h1{
-    font-family: "Fira Code";
+    font-family: "Roboto Mono";
     color:#FFF;
+    font-weight: 500;
     text-shadow: 2.5px -2.5px 0px #000 ;                        
 }
 
@@ -40,7 +41,7 @@ a::before {
     margin-right: 10px;
 }
 
-#button {  
+.button, .contato {  
     display: inline-block; /* desbloqueia definição de altura tag A*/
     background-color: #A0522D ; 
     height: 60px; /**/
@@ -52,7 +53,25 @@ a::before {
     transition:transform .2s;
 }   
 
-#button:hover {
+.button:hover ,.contato:hover {
     transform:scale(1.02); 
     background-color:#BAA495;
 }
+
+section {
+    background-color:#BAA495;
+    display: flex;
+    border-bottom: 10px solid #000;
+}
+
+
+
+p {
+    font-family:"Roboto Mono";
+    font-size: 30px;
+    color: #FFF;
+    text-shadow: 4px 4px 0px #000000;;
+}
+
+
+

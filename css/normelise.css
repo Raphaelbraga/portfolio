@@ -16,8 +16,7 @@
     display: block;
   }
   
-  h1 {
-    font-size: 2em;
+  h1,p {
     margin: 0;
   }
   
