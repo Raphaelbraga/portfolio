@@ -6,6 +6,7 @@
   
   body {
     margin: 0;
+    font-family: "Fira Code";
   }
     
   h1,h2,h3 {
@@ -79,6 +80,7 @@
     font-size: 100%; /* 1 */
     line-height: 1.15; /* 1 */
     margin: 0; /* 2 */
+    border: 0;
   }
   
   button,
