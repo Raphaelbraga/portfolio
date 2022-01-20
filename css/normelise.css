@@ -8,6 +8,7 @@
     margin: 0;
     font-family: "Fira Code";
   }
+
     
   h1,h2,h3 {
     margin: 0;
@@ -67,7 +68,7 @@
   }
    
   img {
-    border-style: none;
+    border-style: none;  
   }
   
   

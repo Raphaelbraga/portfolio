@@ -1,6 +1,7 @@
 .button {  
     display: inline-block; /* desbloqueia definição de altura tag A*/
     background-color: #A0522D ; 
+    color:#fff;
     height: 60px; /**/
     line-height: 60px; /*centra linha na caixa unica linha*/
     padding-left: 20px;
