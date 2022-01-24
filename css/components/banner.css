@@ -5,8 +5,10 @@
     background-repeat: no-repeat;
     background-position-x: right 20px;
     background-position-y: top 10px;
-    height: 520px;
+    height: 405px; 
     border-bottom: solid 10px #000;
+    padding-top: 116px;
+    padding-left: 91px;
 }
 
 .banner .wrapper {
@@ -15,14 +17,8 @@
     width: 630px;
 }
 
-.banner .box {
-    margin-top: 116px;
-    margin-left: 91px;
-}
-
 .banner .navigation {
     display: flex;
     justify-content:space-around; 
     margin-top: 38px;
-    margin-left: 91px;
 }
