@@ -1,0 +1,21 @@
+.sessao__skills {
+    display: flex;
+    background-color: #BAA495;
+    background-size: 500px;
+    border-bottom: solid 10px #A0522D;
+    box-sizing: border-box; 
+    padding-bottom: 60px;
+    flex-direction: column;
+}
+
+.sessao__skills .wrapper {
+    display:flex;
+    flex-wrap: wrap;
+    align-self: center;
+    justify-content: space-between;
+    max-width:960px ;
+}
+
+
+
+
