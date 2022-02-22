@@ -1,4 +1,4 @@
-.banner{
+.main-banner{
     background-image: url(../../assets/img/foto.portfolio.jpg);
     background-size:500px;
     background-color: #8ea4a5; /**/
@@ -11,13 +11,13 @@
     padding-left: 91px;
 }
 
-.banner .wrapper {
+.main-banner .wrapper {
     display:flex;
     flex-direction: column;
     width: 630px;
 }
 
-.banner .navigation {
+.main-banner .navigation {
     display: flex;
     justify-content:space-around; 
     margin-top: 38px;
