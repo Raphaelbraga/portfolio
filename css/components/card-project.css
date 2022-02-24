@@ -1,5 +1,6 @@
 .card-project{
     display: flex;
+    flex-direction: column ;
     justify-content: center;
     align-items: center;
     background-color: #BAA495;
@@ -7,6 +8,6 @@
 }
 
 .card-project img {
-    width: 270px;
-    height: 270px;
+   max-width: 270px; 
+   max-height: 270px;
 }

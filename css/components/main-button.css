@@ -15,3 +15,6 @@
     transform:scale(1.02); 
     background-color:#BAA495;
 }
+.main-button:hover {
+    cursor: pointer; 
+}
